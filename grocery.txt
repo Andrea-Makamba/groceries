@@ -1,3 +1,6 @@
+chips
+balloons
+wine
 milk
 spinach
 tomatoes
