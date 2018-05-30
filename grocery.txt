@@ -4,4 +4,7 @@ chips
 balloons
 wine
 tomatoes
-grocey list
+grcey list
+avocado 
+wine
+sushi
